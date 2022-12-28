@@ -1,0 +1,17 @@
+Alterações 02/12 -
+Fiz muita coisa, o sistema já está funcional e pode até começar a usar em produção a partir de agora.
+Adicionado:
+- Autenticação e proteção das páginas de cadastros
+- Uma futura tela de administradores, onde terá no futuro controle financeiro e coisa do tipo
+- DatabaseSeeders
+- Arrumei a página de cadastro de categorias que estava bem bugadão
+- Cardapio agora faz o filtro verificando se tem produtos naquela tabela, caso não tenha
+a categoria é ignorada
+- Coloquei um "footer" para realizar login como administrador (o que já resolveu junto aquela
+tarja branca que ficava no final da página)
+- Os cadastros de novos usuários está bloqueado para apenas usuários que já existem (admins)
+O usuário padrão é email: bodebrown@kubainteligencia.com.br senha: admin (ainda tenho que ver
+uma maneira mais fácil de alterar o e-mail, por enquanto é por verificação de e-mail, e precisa
+configurar o servidor de envios)
+
+E deve ter mais coisas ainda que eu não lembro kkkkk

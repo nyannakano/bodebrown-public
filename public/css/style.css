@@ -1,0 +1,138 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(SerifGothicStd-Bold.otf);
+}
+.conteudo{
+    min-height: 80vh;
+}
+body {
+    background-color: black;
+    align-content: center;
+}
+
+/* Menu */
+.MenuDiv{
+    font-family: myFirstFont, sans-serif;
+}
+.navbar {
+    min-height: 23vh;
+    background-color: black;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-bottom-color: #fb4f00;
+    margin-bottom: 5px;
+    border-width: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.brand {
+    filter: invert(100%);
+}
+/*---*/
+
+
+.fundoLaranja{
+    background-color: #fb4f00;
+}
+
+.textoLaranja{
+    color: #fb4f00;
+    font-family: myFirstFont, sans-serif;
+}
+
+.textoBranco{
+    color: white;
+}
+.tabelaNomeProd{
+    font-size: 3vw;
+}
+.tabelaPrecoProd{
+    text-align: right;
+    font-size: 3vw;
+}
+.Titulo{
+    font-size: 9vw;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 35px;
+}
+.nomeProduto{
+    font-size: 8vw;
+}
+
+.descricao{
+    color: white;
+    font-size: 2vw;
+}
+table{
+    table-layout: fixed;
+    word-wrap: break-word;
+    width: 100%;
+}
+td{
+    margin-left: 10px;
+    text-align: center;
+}
+
+
+.tg  {
+    width: 100%;
+    border-collapse:collapse;
+    border-spacing:0;
+}
+.tg td{
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+.tg th{
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+.tg .tg-0lax{
+    text-align:left;
+    vertical-align:top;
+    width: 35%;
+}
+.tabelaImg{
+    width: 100vw;
+}
+
+@media only screen and (max-width: 700px){
+    .tabelaProd{
+
+    }
+}
+
+.produtoCriacao {
+    margin-left: 2vw;
+}
+.produtoCriacao .textoLaranja{
+    font-weight: bold;
+}
+.produtoCriacao .mb-2{
+    width: 100%;
+}
+
+.img-qrcode {
+    display: block;
+    margin: 5vw auto;
+    width: 45%;
+}
+
+.prodimg {
+    width: 200px;
+}
