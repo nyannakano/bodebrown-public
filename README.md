@@ -19,3 +19,4 @@ Technologies used:
  - Laravel
  - Javascript
  - MariaDB
+ - BootStrap
