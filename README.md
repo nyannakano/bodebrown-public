@@ -11,7 +11,7 @@ The site has the following functions:
 
 The menu doesn't have the function to make an order (it was a client demand), so is only for showing the menu options.
 
-The system is in use by the brewery on the URL: https://bodebrown.kubainteligencia.com.br/ and https://bodebrown.kubainteligencia.com.br/cardapio But I don't support it anymore since I'm no longer part of the company (Kuba Inteligência) anymore. The code presented here in the repo was done by me, everything else that has been added or removed on the production site was done by the current dev team of Kuba.
+The system is in use by the brewery on the URL: https://bodebrown.kubainteligencia.com.br/ and https://bodebrown.kubainteligencia.com.br/cardapio But I don't support it anymore since I'm no longer part of the company (Kuba Inteligência) anymore. The code presented here in the repo was done by me and some parts by a trainee, everything else that has been added or removed on the production site was done by the current dev team of Kuba.
 
 Technologies used:
 
